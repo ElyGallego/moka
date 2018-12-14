@@ -1,1 +1,1 @@
-console.log('lalalalalalala');
+console.log('afre git reset HEAD^');
